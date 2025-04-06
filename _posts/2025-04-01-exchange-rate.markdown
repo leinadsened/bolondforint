@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: EURÓ VISSZAVÁG! A FORINT OSTROM ALATT, AHOGY AZ EURÓ ÚJRA EMELKEDIK!
 date: 2025-04-01
 ---

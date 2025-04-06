@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: A FORINT SOKKOLÓ VERESÉGET SZENVEDETT! Az euró LEZÚZTA a magyar valutát – Vajon EZ A VÉG a forintnak?
 date: 2025-04-03
 ---

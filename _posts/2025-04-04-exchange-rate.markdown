@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: AZ EURÓ SZÉTTÉPTE A FORINTOT! Vajon A MAGYAR FORINT TÚLÉLI EZT A ROHAMOT?!
 date: 2025-04-04
 ---

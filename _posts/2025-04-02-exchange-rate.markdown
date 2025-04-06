@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: EURÓ SZÉTVERVE! A FORINT ÓRIÁSI GYŐZELMET ARATOTT! Ez lenne az euró vége?
 date: 2025-04-02
 ---
