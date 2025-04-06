@@ -30,6 +30,8 @@ github_username:  leinadsened
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
