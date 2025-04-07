@@ -22,4 +22,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/04/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "PADLÓN A FORINT! Az euró Kiütéssel Győzött a Hétvégén - Képes Még Felállni?!",
+        "excerpt":"Lefújták a meccset, vége a brutális hétfő reggeli összecsapásnak! Az euró nem csak győzött; SZÉT ZÚZTA a magyar forintot, döbbenetes erődemonstrációval! Felejtsd el a pénteki számokat – az már őskor. Ma az euró ÁTTÖRTE az ellenállást, a gyengécske 404,87-ről egészen 407,98-ig RAKÉTÁZOTT! Ez egy mellbevágó 3,11 pontos KIÜTÉS, egy fájdalmas...","categories": [],
+        "tags": [],
+        "url": "/2025/04/07/exchange-rate.html",
+        "teaser": null
       }]
