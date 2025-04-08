@@ -28,4 +28,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/07/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "A FORINT ODA CSAPOTT! Az euró MEGGYENGÜLT a mai piaci HARCBAN!",
+        "excerpt":"A kesztyűk LEKERÜLTEK! A mai EURÓ és FORINT közötti ZSÍROS meccsen a HUF megmutatta az erejét, visszaszorítva az eurót! Tegnap az euró még magasan állt 407,98-on, de ma? Letaszították 407,95-re! Ez egy 0,03 pontos visszavonulás, egy ZSÁKMÁNYOS 0,01%-os VESZTESÉG az eurónak! Ne hagyd, hogy a kis számok megtévesszenek – a...","categories": [],
+        "tags": [],
+        "url": "/2025/04/08/exchange-rate.html",
+        "teaser": null
       }]
