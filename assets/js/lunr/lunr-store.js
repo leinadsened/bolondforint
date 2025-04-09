@@ -34,4 +34,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/08/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "EURÓ GYALÁZATOSAN ELPOROLJA A FORINTOT! A Forint Nem Kap Levegőt, Ahogy Az Euró Uralja A Piacot!",
+        "excerpt":"Újabb nap, újabb brutális vereség a magyar forintnak! A hatalmas euró ma megfeszítette izmait, szétzúzta a forintot, és a tegnapi 407,95-ről 408,63-ra mászott fel. Ez egy 0,68 pontos kiütés! Miközben szánalmas elemzők ezt ‘jelentéktelen, 0,17%-os változásnak’ nevezik, mi tudjuk az IGAZSÁGOT! Ez nem csak számok, ez egy CSATATÉR, és az...","categories": [],
+        "tags": [],
+        "url": "/2025/04/09/exchange-rate.html",
+        "teaser": null
       }]
