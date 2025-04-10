@@ -40,4 +40,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/09/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "FORINT PORRÁ ZÚZZA AZ EURÓT! A forint visszavág, miközben az euró hatalmasat bukik!",
+        "excerpt":"Komoly pofonok repkedtek ma a valuta fronton! Az euró, ami tegnap még büszkén feszített 408,63-on, ma csúfos vereséget szenvedett a magyar forinttól! A mai záróérték? Szánalmas 405,97 euró! Ez egy ELKÉPESZTŐ, 2,66 forintos zuhanás, egy megalázó, 0,65%-os VESZTESÉG! A forint megmutatta a foga fehérjét, és keményen odacsapott. Vajon az euró...","categories": [],
+        "tags": [],
+        "url": "/2025/04/10/exchange-rate.html",
+        "teaser": null
       }]
