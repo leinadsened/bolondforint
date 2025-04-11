@@ -46,4 +46,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/10/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "FORINT ELVERVE! Az euró BRUTÁLISAN LEZÚZTA a forintot a piacon – Vajon a 410 lesz a következő állomás?",
+        "excerpt":"A forint MA KEMÉNYEN BEKAPOTT! Az euró csapata VAD támadást indított, áttörve a védelmet és padlóra küldve a forintot. Az eredmény? Megalázó 409,43! Ez GYALÁZATOS 3,46 pontos veszteség mindössze EGY NAP alatt – döbbenetes 0,85%-os zuhanás! Az euró KÖNYÖRTELEN, földbe döngöli a forintot. Tud egyáltalán a forint visszavágni, vagy ez...","categories": [],
+        "tags": [],
+        "url": "/2025/04/11/exchange-rate.html",
+        "teaser": null
       }]
