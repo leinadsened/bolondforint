@@ -68,3 +68,8 @@ defaults:
       share: true
       related: true
 
+analytics:
+  provider: "google-gtag" # Use "google-gtag" for GA4
+  google:
+    tracking_id: "G-B7QKFY5LWM" # Replace with your Measurement ID
+    anonymize_ip: false # Optional, default is false for GA4 anyway
