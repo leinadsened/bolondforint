@@ -27,7 +27,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bolondforint.hu" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  leinadsened
-google_analytics: G-B7QKFY5LWM
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
@@ -72,4 +71,4 @@ analytics:
   provider: "google-gtag" # Use "google-gtag" for GA4
   google:
     tracking_id: "G-B7QKFY5LWM" # Replace with your Measurement ID
-    anonymize_ip: false # Optional, default is false for GA4 anyway
+
