@@ -52,4 +52,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/11/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "ROGYIK A FORINT! Az euró brutális hétfői csatában átgázolt a 410-es vonalon!",
+        "excerpt":"A hétvége sem hozott enyhülést a megtépázott magyar forintnak! A hétfői gongszó után az euró azonnal TÁMADÁSBA lendült, és egy könyörtelen ütést mért a forintra. Az euró/forint árfolyam pénteki 409,43-ról egyenesen a SZÉDÍTŐ 410,15-re ROBBANT! Ez egy megalázó, 0,72 forintos VESZTESÉG minden egyes euró után. A Forint csapat vérzik, döbbenetes...","categories": [],
+        "tags": [],
+        "url": "/2025/04/14/exchange-rate.html",
+        "teaser": null
       }]
