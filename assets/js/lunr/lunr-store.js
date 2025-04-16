@@ -66,7 +66,7 @@ var store = [{
         "teaser": null
       },{
         "title": null,
-        "excerpt":"Hihetetlen fordulat a valutaháború véres poklában! A rettegett Forint (HUF) Klán váratlan és kegyetlen rajtaütést hajtott végre az eddig sérthetetlennek hitt Euró (EUR) Maffia ellen. A piacok sokkban állnak, a befektetők menekülnek – ez maga a totális leszámolás! Tegnap még az EUR pribékjei 409.96-os árfolyamon parádéztak, azt hitték, övék a...","categories": [],
+        "excerpt":"Hihetetlen fordulat rázta meg a pénzügyi világrendet! A vasfüggöny leereszkedett az árfolyamok csataterén, ahol a hős magyar Forint (HUF) váratlan és brutális ellentámadást indított a túlerőben lévő Euró (EUR) ellen! Tegnap még 409.96 egységen állt a frontvonal, de ma reggelre a Forint áttörte a védelmet, és 408.73-ra verte vissza az...","categories": [],
         "tags": null,
         "url": "/2025/04/16/2025-04-16-exchange-rate.html",
         "teaser": null
