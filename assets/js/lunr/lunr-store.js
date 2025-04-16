@@ -65,9 +65,9 @@ var store = [{
         "url": "/2025/04/15/exchange-rate.html",
         "teaser": null
       },{
-        "title": "SHOCKWAVE! Forint Magician's DECEPTIVE PLUNGE Below 409! Is Euro Detective BLIND to the Looming COLLAPSE?!",
-        "excerpt":"Hold onto your wallets! The currency battlefield just witnessed a move so cunning, it reeks of dark magic! The Forint, that slippery illusionist of the markets, just PULLED A FAST ONE, dipping from 409.96 to a shocking 408.73 against the Euro! That’s a 1.23 point drop! A so-called ‘-0.30%’ change!...","categories": [],
-        "tags": [],
-        "url": "/2025/04/16/exchange-rate.html",
+        "title": null,
+        "excerpt":"Hihetetlen fordulat a valutaháború véres poklában! A rettegett Forint (HUF) Klán váratlan és kegyetlen rajtaütést hajtott végre az eddig sérthetetlennek hitt Euró (EUR) Maffia ellen. A piacok sokkban állnak, a befektetők menekülnek – ez maga a totális leszámolás! Tegnap még az EUR pribékjei 409.96-os árfolyamon parádéztak, azt hitték, övék a...","categories": [],
+        "tags": null,
+        "url": "/2025/04/16/2025-04-16-exchange-rate.html",
         "teaser": null
       }]
