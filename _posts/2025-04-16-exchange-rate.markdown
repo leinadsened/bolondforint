@@ -1,6 +1,6 @@
 ---
 layout: single
-title: PÉNZÜGYI ATOMVILLANÁS: A FORINT VISSZATÁMAD! Összeomlik az Euró?!
+title: "PÉNZÜGYI ATOMVILLANÁS: A FORINT VISSZATÁMAD! Összeomlik az Euró?!"
 date: 2025-04-16
 ---
 
