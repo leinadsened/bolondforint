@@ -65,8 +65,8 @@ var store = [{
         "url": "/2025/04/15/exchange-rate.html",
         "teaser": null
       },{
-        "title": "PÉNZÜGYI ATOMVILLANÁS, A FORINT VISSZATÁMAD! Összeomlik az Euró?!",
-        "excerpt":"Hihetetlen fordulat rázta meg a pénzügyi világrendet! A vasfüggöny leereszkedett az árfolyamok csataterén, ahol a hős magyar Forint (HUF) váratlan és brutális ellentámadást indított a túlerőben lévő Euró (EUR) ellen! Tegnap még 409.96 egységen állt a frontvonal, de ma reggelre a Forint áttörte a védelmet, és 408.73-ra verte vissza az...","categories": [],
+        "title": "PÉNZHÁBORÚ! A Forint Klán Visszavágott - Az Euró Maffia Véres Napja!",
+        "excerpt":"Senki sem hitt a szemének a piac sötét sikátoraiban! A HUF klán, akit sokan már leírtak, kegyetlen rajtaütést hajtott végre az eddig megállíthatatlannak hitt EUR bűnszövetkezet ellen! Ez nem egy szimpla piaci mozgás, ez színtiszta bandaháború, ahol a tét a teljes gazdasági uralom! Tegnap még diadalittasan pöffeszkedett az EUR maffia...","categories": [],
         "tags": [],
         "url": "/2025/04/16/exchange-rate.html",
         "teaser": null
