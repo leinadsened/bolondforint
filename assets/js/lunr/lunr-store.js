@@ -70,4 +70,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/16/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "LEZÚZTA! A Forint Visszavág a Káosz Eurójának - Brutális Erősödés Indult?",
+        "excerpt":"Hihetetlen Fordulat a Piacokon! Miközben a Káosz ügynöke, az Euró tegnap még 408.73-as pusztító árfolyamon próbálta térdre kényszeríteni gazdaságunkat, a Rend utolsó bástyája, a hős Forint ma visszacsapott! Nem is akárhogy! Egyetlen nap alatt 407.65-re verte vissza a betolakodót, ami -1.08 egységnyi pofont jelent a sötét erőknek! Ez -0.26%-os megsemmisítő...","categories": [],
+        "tags": [],
+        "url": "/2025/04/17/exchange-rate.html",
+        "teaser": null
       }]
