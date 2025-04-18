@@ -76,4 +76,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/17/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "BRUTÁLIS ÖSSZECSAPÁS, A Forint MATADOR Vérbe Fagyasztotta az EURÓ Bikát! MI VÁR RÁNK?!",
+        "excerpt":"Hihetetlen dráma zajlott a pénzügyi piacok véres arénájában! A magyar Forint, mint egy vakmerő matador, nézett farkasszemet a tomboló, megállíthatatlannak hitt EURÓ bikával! Tegnap még 408.73-as magasságokban döfködött az EURÓ, de a magyar valuta egyetlen HALÁLOSAN PONTOS mozdulattal letaglózta! Az árfolyam 407.65-re ZUHANT! Ez 1.08 pontos megsemmisítő csapás, -0.26%-os szédítő...","categories": [],
+        "tags": [],
+        "url": "/2025/04/18/exchange-rate.html",
+        "teaser": null
       }]
