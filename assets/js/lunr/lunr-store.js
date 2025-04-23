@@ -76,4 +76,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/17/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "VÉRFAGYASZTÓ ÖSSZECSAPÁS! Forint Kapitány SZÉTCINCÁLTA Euró Kapitányt! ZUHAN a kincs értéke!",
+        "excerpt":"Figyelem, tengeri patkányok és kincsvadászok! Drámai ütközet zajlott a pénzügyek viharos tengerén! A mi rettenthetetlen kalózkapitányunk, Forint Kapitány, váratlan és BRUTÁLIS csapást mért ősi riválisára, a gőgös Euró Kapitányra! Tegnap még 409.24 aranytallért ért Euró Kapitány kincse, de Forint Kapitány ágyúi ma 408.55-re lökték le az értékét! Ez 0.69 tallérnyi...","categories": [],
+        "tags": [],
+        "url": "/2025/04/23/exchange-rate.html",
+        "teaser": null
       }]
