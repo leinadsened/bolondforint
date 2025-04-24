@@ -82,4 +82,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/23/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "BRUTÁLIS ÖSSZECSAPÁS, A Forint Kiborg Visszavágott! Retteghet az Euró Ellenállás?",
+        "excerpt":"Hihetetlen fordulat a pénzpiacok kiber-csataterén! A Forint, a könyörtelen fémtestű bérgyilkos, váratlan és brutális ellentámadást indított! Az emberiség utolsó reményeként küzdő Euró Ellenállás védelmi vonalai MEGROPPANTAK! A tegnapi 408.55-ös árfolyam után a Forint terminátor MA 407.43-ra GÁZOLTA LE az Eurót! Ez 1.12 egységnyi KÉZZELFOGHATÓ PUSZTÍTÁS! A -0.27%-os veszteség csak a...","categories": [],
+        "tags": [],
+        "url": "/2025/04/24/exchange-rate.html",
+        "teaser": null
       }]
