@@ -88,4 +88,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/24/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "BRUTÁLIS FORINT ERŐDEMONSTRÁCIÓ, A Káosz EURÓJA TÉRDRE KÉNYSZERÜLT! PÁNIK BRÜSSZELBEN?",
+        "excerpt":"A gazdaság lelkéért vívott könyörtelen csatában újabb fejezet íródott! A Rend és Stabilitás pajzsa, a dicső Magyar Forint (HUF) megsemmisítő csapást mért a Káosz sötét valutájára, az Euróra (EUR)! Míg tegnap még 407.43 forintot ért egy egységnyi káosz, addig MÁRA EZ 407.22-RE ZUHANT! Igen, jól látják: a Forint -0.21 ponttal,...","categories": [],
+        "tags": [],
+        "url": "/2025/04/25/exchange-rate.html",
+        "teaser": null
       }]
