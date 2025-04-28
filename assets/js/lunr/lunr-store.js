@@ -94,4 +94,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/25/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "BRUTÁLIS ÖSSZECSAPÁS! A HŐS FORINT FÖLDRE KÉNYSZERÍTETTE A GYILKOS EURÓ KIBORGOT! PÁNIK BRÜSSZELBEN?!",
+        "excerpt":"Figyelem, Bátor Magyar Harcosok! Eljött a nap! A könyörtelen, acélszívű EURÓ BÉRGYILKOS, az Új Világrend kibernetikus ügynöke, aki azért jött, hogy nemzeti valutánkat és büszkeségünket a porba tiporja, HALÁLOS SEBET KAPOTT! A legfrissebb harctéri jelentések szerint hősiesen küzdő FORINTUNK, az emberi ellenállás utolsó bástyája, kegyetlen csapást mért a fém szörnyetegre!...","categories": [],
+        "tags": [],
+        "url": "/2025/04/28/exchange-rate.html",
+        "teaser": null
       }]
