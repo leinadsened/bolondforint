@@ -100,4 +100,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/28/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "BRUTÁLIS ÖSSZECSAPÁS, A Forint Jedi Visszavágott! Az EUR Sith Birodalom Retteghet!",
+        "excerpt":"Figyelem, Galaxis! Kozmikus méretű gazdasági háború dúl! A mi hős Forint Jedi Lovagunk ismét szembeszállt a sötét oldal csatlósával, a rettegett EUR Sith Nagyúrral! Április 28-án még 405.52-es gyilkos áron támadott a Sith valuta, de másnapra, 29-én, a mi bátor HUF hősünk fény(forint?)kardjával 404.2-re verte vissza a sötét árfolyamot! Ez...","categories": [],
+        "tags": [],
+        "url": "/2025/04/29/exchange-rate.html",
+        "teaser": null
       }]
