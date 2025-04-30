@@ -106,4 +106,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/29/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "VÉGSŐ CSAPÁS, AZ EURÓ LÁNGSZÓRÓJA PERZSELI A FORINTOT - 404.61 A TOTÁLIS ÖSSZEOMLÁS KAPUJÁBAN!",
+        "excerpt":"FIGYELEM! SOKKOLÓ TÁMADÁS ÉRTE A MAGYAR GAZDASÁGOT! A KÖNYÖRTELEN EURÓ ISMÉT LÁNGSZÓRÓVAL TÁMADT A VÉRTELEN FORINTRA! Tegnap még 404.2-nél próbált levegőhöz jutni a haldokló nemzeti valuta, de az európai ragadozó ma 404.61-re TORNÁZTA FEL A POKLOT! Ez 0.41 egységnyi TISZTA PUSZTULÁS, egy 0.10%-os LÁNGOLÓ NYÍLVESSZŐ EGYENESEN A FORINT ROMLOVÁ LŐTT...","categories": [],
+        "tags": [],
+        "url": "/2025/04/30/exchange-rate.html",
+        "teaser": null
       }]
