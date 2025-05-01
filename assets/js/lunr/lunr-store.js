@@ -112,4 +112,10 @@ var store = [{
         "tags": [],
         "url": "/2025/04/30/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "Ünnepi fegyverszünet, Ma szünetel az EUR/HUF csata",
+        "excerpt":"Kedves Olvasóink! Ma május 1., a Munka Ünnepe van, és mint ilyenkor lenni szokott, a Magyar Nemzeti Bank sem dolgozik, így hivatalos árfolyamokat sem közöl. Ebből kifolyólag a megszokott euró-forint párharc mai napi közvetítése sajnálatos módon elmarad. De ne csüggedjenek, amint újra lesznek adatok, mi ismét jelentkezünk a legfrissebb “frontjelentéssel”....","categories": [],
+        "tags": [],
+        "url": "/2025/05/01/exchange-rate.html",
+        "teaser": null
       }]
