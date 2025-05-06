@@ -124,4 +124,10 @@ var store = [{
         "tags": [],
         "url": "/2025/05/02/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "ALVILÁGI HÁBORÚ A PÉNZPIACON, AZ EURÓ KARTEL KÖNYÖRTELENÜL BELEDÖFÖTT A FORINTBA – ÚJABB VÉRES REKORD!",
+        "excerpt":"Figyelem, polgártársak, kapaszkodjanak meg! Újabb brutális támadás érte nemzeti valutánkat, a forintot! A hírhedt EURÓ KARTEL ismét lecsapott, és ezúttal sem kímélték áldozatukat! Míg tegnap, 2025. május 5-én még 404,31 egységnyi magyar vér tapadt egyetlen euróhoz, addig mára, május 6-ra ez a szám kegyetlenül 405,35-re ugrott! Ez egy 1,04 egységnyi,...","categories": [],
+        "tags": [],
+        "url": "/2025/05/06/exchange-rate.html",
+        "teaser": null
       }]
