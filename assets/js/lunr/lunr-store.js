@@ -130,4 +130,10 @@ var store = [{
         "tags": [],
         "url": "/2025/05/06/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "VÉRES BOSSZÚ A PIACOKON! A FORINT MEGALÁZTA AZ EURÓT! ÖSSZEOMLÁS KÖVETKEZIK BRÜSSZELBEN?!",
+        "excerpt":"Tisztelt Olvasóink, kapaszkodjanak meg! Amit ma a pénzpiacokon láttunk, az nem más, mint a Dávid és Góliát modern kori, véres összecsapásának legújabb fejezete! A mi hős, rettenthetetlen FORINTUNK ismételten porig alázta a dölyfös, arisztokratikus EURÓT! Igen, jól hallották, a Forint Ház ismét diadalmaskodott az ármánykodó Euró klán felett! A legfrissebb,...","categories": [],
+        "tags": [],
+        "url": "/2025/05/07/exchange-rate.html",
+        "teaser": null
       }]
