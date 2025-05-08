@@ -136,4 +136,10 @@ var store = [{
         "tags": [],
         "url": "/2025/05/07/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "VÖRÖS RIADÓ! AZ EURÓ SÁRKÁNYAI ÚJABB ALATTOMOS CSAPÁST MÉRTEK A VÉRENGZŐ FORINTRA! KÉSZÜLJ A TELJES ÖSSZEOMLÁSRA, TE ÁRVA MAGYAR!",
+        "excerpt":"Halljátok, halljátok, Forintfölde megtört népe! Újabb gyászos hír érkezett a gazdasági csatatérről, ahol a mi hősiesen küzdő, de egyre csak vérző Forintunk (HUF) ismételten térdre kényszerült a könyörtelen, aranyban fürdőző Euró (EUR) sárkánylovagjai előtt! Míg ti a napi betevőért gürcöltetek, a háttérben sötét árnyak mozogtak! Május 7-én még 404.6 árva...","categories": [],
+        "tags": [],
+        "url": "/2025/05/08/exchange-rate.html",
+        "teaser": null
       }]
