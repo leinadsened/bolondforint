@@ -142,4 +142,10 @@ var store = [{
         "tags": [],
         "url": "/2025/05/08/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "BRUTÁLIS ÖSSZECSAPÁS A PÉNZPIACON, A FORINT VISSZAVÁGOTT AZ EURÓNAK – VAGY MÉGSEM? MI JÖHET EZUTÁN?!",
+        "excerpt":"Hihetetlen dráma zajlott a devizapiacok véráztatta küzdőterén! A gyengének hitt, ám annál elszántabb FORINT ismételten kesztyűt dobott az arrogáns EURÓ arcába! A legfrissebb adatok szerint május 8-án az EURÓ még 404.89-es magasságokban billegett, mint egy túltáplált uralkodó a trónján. De a FORINT nem hagyta annyiban! Május 9-re, egyetlen éjszaka leforgása...","categories": [],
+        "tags": [],
+        "url": "/2025/05/09/exchange-rate.html",
+        "teaser": null
       }]
