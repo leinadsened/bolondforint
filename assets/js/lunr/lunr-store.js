@@ -148,4 +148,10 @@ var store = [{
         "tags": [],
         "url": "/2025/05/09/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "BRUTÁLIS TÁMADÁS AZ OLÜMPOSZON! AZ EURÓ ISTEN PORBA TIPORTA A FORINTOT – KÉSZÜLJ A LEGROSSZABBRA!",
+        "excerpt":"Rettegjetek, halandók! A gazdasági Olümposz egén ismét villámok cikáznak, ahogy az örök ellenségek, Euró, a gőgös titán és a mi szerény Forintunk újra egymásnak feszültek! A küzdelem kimenetele? Kíméletlen mészárlás! Míg május 9-én még ‘csak’ 404,61 földi petákot követelt egyetlen arany Euró, addig május 12-re ez a szám már 405,05-re...","categories": [],
+        "tags": [],
+        "url": "/2025/05/12/exchange-rate.html",
+        "teaser": null
       }]
