@@ -154,4 +154,10 @@ var store = [{
         "tags": [],
         "url": "/2025/05/12/exchange-rate.html",
         "teaser": null
+      },{
+        "title": "EURÓ-SOKK! A DIGITÁLIS PÉNZSZÖRNY ÚJRA LESÚJTOTT! A FORINT VÉGÓRÁI KÖZELEGENEK?!",
+        "excerpt":"Hihetetlen, ami történt! Az alattomos, brüsszeli pénzszörny, az EURÓ, ismét alattomosan odacsapott a mi hősiesen küzdő FORINTUNKnAK! Míg tegnap, 2025. május 12-én még 405.05 egységen állt a frontvonal, mára, május 13-ára virradóra, az EURÓ kegyetlenül 405.21-re TORNÁSZTA FEL MAGÁT! Ez nem kevesebb, mint 0.16 egységnyi, pőre AGRESSZIÓ! Százalékban kifejezve ez...","categories": [],
+        "tags": [],
+        "url": "/2025/05/13/exchange-rate.html",
+        "teaser": null
       }]
